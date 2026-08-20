@@ -115,5 +115,4 @@ This License, together with any separate signed written agreement between the Li
 
 **Licensor:** Antares MC, on behalf of R3D and Lumina.dev
 **Contact:** antaresmc@linuxmail.org
-
 *This document does not constitute legal advice.*
