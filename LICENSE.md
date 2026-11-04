@@ -4,7 +4,7 @@
 
 **Copyright © Antares MC, R3D, and Lumina.dev. All rights reserved.**
 
-This License governs all software, plugins, tools, source code, configuration files, assets, and documentation developed, owned, or distributed by Antares MC on behalf of R3D and Lumina.dev, including but not limited to AntaresCORE, VelocityTools, Starfall Tools, AntiAbuse, and any current or future plugin, tool, or asset released under this License (collectively, the "Software").
+This License governs all software, plugins, tools, source code, configuration files, assets, and documentation developed, owned, or distributed by Antares MC on behalf of R3D and Lumina.dev, including but not limited to AntaresCORE, VelocityTools, Starfall Tools, AntiAbuse, BlixCore, BlixAC and any current or future plugin, tool, or asset released under this License (collectively, the "Software").
 
 By downloading, installing, accessing, receiving, viewing, or using the Software in any way, or by receiving access to any server, repository, or system on which the Software is installed, you ("Licensee") agree to be irrevocably bound by every term of this License. **If you do not agree to every term, you must not access, install, view, retain, or use the Software in any way, and must immediately delete any copy in your possession.**
 
